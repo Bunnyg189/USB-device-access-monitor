@@ -36,16 +36,5 @@ USB devices (pen drives, external HDDs, etc.) can be misused to steal sensitive 
     Graph of “Number of USB devices connected per day/week”. 
 
 
-📂 Project Structure
-      usb_monitor/
-    │── app.py
-    │── usb_logs.db
-    │── templates/
-    │    ├── base.html
-    │    ├── dashboard.html
-    │    ├── search.html
-    │    └── analytics.html
-    │── static/
-          └── style.css
 
 
